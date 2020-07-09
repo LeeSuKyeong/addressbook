@@ -8,7 +8,7 @@ addr_book.txt 파일을 읽어와 해당 주소록의 출력, 검색, 추가, �
 * C
 
 ## 프로그램 구조  
-![image](./readme_img/menu.jpg)  
+![image](./readme_img/menu.JPG)  
 
 <video width="320" height="240" controls>
   <source src="video.mp4" type="video/mp4">

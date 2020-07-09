@@ -8,11 +8,18 @@ addr_book.txt 파일을 읽어와 해당 주소록의 출력, 검색, 추가, �
 * C
 
 ## 프로그램 구조  
-![image](./readme_img/menu.JPG)  
+ <img src ="./readme_img/project.png">
 
-<video width="320" height="240" controls>
-  <source src="video.mp4" type="video/mp4">
-</video>  
+## 프로그램 시연
+일부화면
+- Main menu    
+  <img src ="./readme_img/menu.JPG" width="50%" height="50%">  
+
+-  Display address list   
+  <img src ="./readme_img/display.JPG" width="50%" height="50%">
+
+**실행 영상**  
+<https://drive.google.com/file/d/1k9JB58t_yLmp7D2FPVTxStXlC32inDph/view?usp=sharing>
 
 
 ## 실행하기
